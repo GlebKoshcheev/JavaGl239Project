@@ -2,7 +2,6 @@ package Gui;
 
 import com.jogamp.opengl.util.FPSAnimator;
 import problem.Problem;
-
 import javax.media.opengl.*;
 import javax.media.opengl.awt.GLCanvas;
 
